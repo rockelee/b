@@ -1,7 +1,7 @@
 package b
 
-import fmt
+import "fmt"
 
 func Add() {
-    fmt.Print("abd");
+    fmt.Println("abd");
 }
